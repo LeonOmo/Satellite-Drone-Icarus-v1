@@ -15,18 +15,23 @@ Motors
 3. Sensors
 
 Barometer BMP280
+
 Environmental BME280
+
 GPS BN-220
 
 4. Mechanical
 
 Frame Custom 3D Printed
+
 Servos
 
 5. Communication 
 
 Active Buzzer
+
 ELRS Antenna
+
 PCB
 
 
