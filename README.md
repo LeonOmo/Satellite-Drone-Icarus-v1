@@ -6,11 +6,11 @@ CanSat Project: Technical BOM
 1. Flight Control & Power
 Flight Controller (FC)
 
-Receiver (RX) (ExpressLRS EP1)
+Receiver ExpressLRS EP1 RX
 
-Battery LiPo
+Battery Tattu 1S 450mAh 75C LiPo
 
-Motors
+Motors RCINPOWER GTS V2 1202.5 or 0802
 
 3. Sensors
 
@@ -18,7 +18,7 @@ Barometer BMP280
 
 Environmental BME280
 
-GPS BN-220
+GPS BN-180
 
 4. Mechanical
 
@@ -26,11 +26,9 @@ Frame Custom 3D Printed
 
 Servos
 
-5. Communication 
+5. Extras
 
 Active Buzzer
-
-ELRS Antenna
 
 PCB
 
