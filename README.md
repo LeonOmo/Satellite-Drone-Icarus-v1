@@ -5,8 +5,11 @@ CanSat Project: Technical BOM
 
 1. Flight Control & Power
 Flight Controller (FC)
+
 Receiver (RX) (ExpressLRS EP1)
-Battery LiPo 
+
+Battery LiPo
+
 Motors
 
 3. Sensors
