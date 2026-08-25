@@ -10,7 +10,7 @@ Receiver ExpressLRS EP1 RX
 
 Battery Tattu 1S 450mAh 75C LiPo
 
-Motors RCINPOWER GTS V2 1202.5 or 0802
+0702 Brushless Motors
 
 3. Sensors
 
@@ -24,12 +24,14 @@ GPS BN-180
 
 Frame Custom 3D Printed
 
-Servos
+Linearservo
 
 5. Extras
 
 Active Buzzer
 
 PCB
+
+Video transmitter
 
 
