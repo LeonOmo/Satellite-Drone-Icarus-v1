@@ -10,7 +10,7 @@ Receiver ExpressLRS EP1 RX
 
 Battery Tattu 1S 450mAh 75C LiPo
 
-0702 Brushless Motors
+0802SE Brushless Motors
 
 3. Sensors
 
