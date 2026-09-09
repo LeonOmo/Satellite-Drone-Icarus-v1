@@ -1,37 +1,33 @@
-# Satellite-Drone-Icarus-v1
-A Cansat which produces his own thrust on the way back
+# SatDrone Icarus v1
 
-CanSat Project: Technical BOM
+A compact, rocket-deployable satellite drone designed for atmospheric sensing and remote telemetry. Featuring a cylindrical form factor with folding arms, an integrated 30mm active cooling channel, and full telemetry capabilities over ExpressLRS.
 
-1. Flight Control & Power
-Flight Controller (FC)
+---
 
-Receiver ExpressLRS EP1 RX
+## Features
 
-Battery Tattu 1S 450mAh 75C LiPo
+- Form Factor & Deployment: Cylindrical "SatDrone" frame designed for compact storage and deployment with linearservos which fold open the motor arms
+- Flight Controller: GEPRC TAKER G4 45A AIO.
+- Sensors & Telemetry:
+  - Flywoo GOKU GM8 Mini V2 GPS for satellite tracking (Speed).
+  - ARCELI BME280 sensor module for barometric altitude, ambient temperature, and humidity tracking.
+- Control Link: RadioMaster RP1 ExpressLRS 2.4GHz receiver.
+- Thermal Management: 30x30x7mm 5V microfan.
+- FPV System: BetaFPV Air VTX & BetaFPV Air Camera setup for live video feed.
 
-0802SE Brushless Motors
+---
 
-3. Sensors
+## Tools
 
-Barometer BMP280
+- 3D Design: Desinged in Onshape (Printed with PLA)
+- Firmware: Betaflight
 
-Environmental BME280
+---
 
-GPS BN-180
+##Credits
+Inspired by "IBUILDSTUFF" on Youtube
 
-4. Mechanical
+---
 
-Frame Custom 3D Printed
-
-Linearservo
-
-5. Extras
-
-Active Buzzer
-
-PCB
-
-Video transmitter
-
-
+##Extras 
+This took way to long.
