@@ -4,7 +4,7 @@ A compact, rocket-deployable satellite drone designed for atmospheric sensing an
 
 ---
 
-## Features
+# Features
 
 - Form Factor & Deployment: Cylindrical "SatDrone" frame designed for compact storage and deployment with linearservos which fold open the motor arms
 - Flight Controller: GEPRC TAKER G4 45A AIO.
@@ -17,14 +17,14 @@ A compact, rocket-deployable satellite drone designed for atmospheric sensing an
 
 ---
 
-## Tools
+# Tools
 
 - 3D Design: Desinged in Onshape (Printed with PLA)
 - Firmware: Betaflight
 
 ---
 
-##Credits
+#Credits
 Inspired by "IBUILDSTUFF" on Youtube
 
 ---
