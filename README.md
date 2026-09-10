@@ -24,7 +24,7 @@ A compact, rocket-deployable satellite drone designed for atmospheric sensing an
 
 ---
 
-#CAD
+# CAD
 
 <img width="500" height="500" alt="Screenshot 2026-08-27 015930" src="https://github.com/user-attachments/assets/f26dca5e-a598-4bef-a437-14cbb87c6cf7" />
 <img width="500" height="500" alt="Screenshot 2026-08-27 015941" src="https://github.com/user-attachments/assets/c11a425a-1352-44ec-8dec-02deecf735f8" />
@@ -33,10 +33,10 @@ A compact, rocket-deployable satellite drone designed for atmospheric sensing an
 
 ---
 
-#Credits
+# Credits
 Inspired by "IBUILDSTUFF" on Youtube
 
 ---
 
-##Extras 
+# Extras 
 This took way to long.
