@@ -6,7 +6,7 @@ A compact, rocket-deployable satellite drone designed for atmospheric sensing an
 
 # Features
 
-- Form Factor & Deployment: Cylindrical "SatDrone" frame designed for compact storage and deployment with linearservos which fold open the motor arms
+- Form Factor & Deployment: Cylindrical "SatDrone" frame designed for compact storage (to be stored in small / big Rockets) and deployment with linearservos which fold open the motor arms
 - Flight Controller: GEPRC TAKER G4 45A AIO.
 - Sensors:
   - Flywoo GOKU GM8 Mini V2 GPS for satellite tracking (Speed).
