@@ -1,12 +1,12 @@
 # SatDrone Icarus v1
 
-A compact, rocket-deployable satellite drone designed for atmospheric sensing and remote telemetry. Featuring a cylindrical form factor with folding arms, an integrated 30mm active cooling channel, and full telemetry capabilities over ExpressLRS.
+A compact, rocket deployable satellite drone designed for atmospheric sensing. Featuring a cylindrical form factor with folding arms, an integrated 30mm active cooling channel, and full telemetry capabilities.
 
 ---
 
 # Features
 
-- Form Factor & Deployment: Cylindrical "SatDrone" frame designed for compact storage (to be stored in small / big Rockets) and deployment with linearservos which fold open the motor arms
+- Form Factor & Deployment: The satdrone was designed for compact storage (to be used as payload in small / big rockets) and deployment with linearservos which fold open the motor arms
 - Flight Controller: GEPRC TAKER G4 45A AIO.
 - Sensors:
   - HGLRC M100 Mini GPS for tracking.
