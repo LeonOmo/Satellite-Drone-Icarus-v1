@@ -2,8 +2,6 @@
 
 A compact, rocket deployable satellite drone designed for atmospheric sensing. Featuring a cylindrical form factor with folding arms, an integrated 30mm active cooling channel, and full telemetry capabilities.
 
----
-
 # Features
 
 - Form Factor & Deployment: The satdrone was designed for compact storage (to be used as payload in small / big rockets) and deployment with linearservos which fold open the motor arms
@@ -15,14 +13,10 @@ A compact, rocket deployable satellite drone designed for atmospheric sensing. F
 - Thermal Management: 30x30x7mm 5V microfan.
 - FPV System: BetaFPV Air VTX & BetaFPV Air Camera setup for live video feed.
 
----
-
 # Tools
 
 - 3D Design: Desinged in Onshape (Printed with PLA)
 - Firmware: Betaflight
-
----
 
 # CAD
 
@@ -30,18 +24,11 @@ A compact, rocket deployable satellite drone designed for atmospheric sensing. F
 <img width="500" height="500" alt="Screenshot 2026-08-27 015941" src="https://github.com/user-attachments/assets/c11a425a-1352-44ec-8dec-02deecf735f8" />
 <img width="271" height="510" alt="Screenshot 2026-09-08 200246" src="https://github.com/user-attachments/assets/92688d41-1d58-4687-b21e-52856d0349f6" />
 
-
----
-
 # Credits
 Inspired by "IBUILDSTUFF" on Youtube
 
----
-
 # Extras 
 My first ever drone build, im always open to improvements. 
-
----
 
 # Bonus
 
