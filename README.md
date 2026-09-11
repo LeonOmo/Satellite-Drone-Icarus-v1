@@ -9,8 +9,8 @@ A compact, rocket-deployable satellite drone designed for atmospheric sensing an
 - Form Factor & Deployment: Cylindrical "SatDrone" frame designed for compact storage (to be stored in small / big Rockets) and deployment with linearservos which fold open the motor arms
 - Flight Controller: GEPRC TAKER G4 45A AIO.
 - Sensors:
-  - Flywoo GOKU GM8 Mini V2 GPS for satellite tracking (Speed).
-  - ARCELI BME280 sensor module for barometric altitude, ambient temperature, and humidity tracking.
+  - HGLRC M100 Mini GPS for tracking.
+  - BME280 sensor module for barometric altitude, ambient temperature, and humidity tracking.
 - Control Link: RadioMaster RP1 ExpressLRS 2.4GHz receiver.
 - Thermal Management: 30x30x7mm 5V microfan.
 - FPV System: BetaFPV Air VTX & BetaFPV Air Camera setup for live video feed.
