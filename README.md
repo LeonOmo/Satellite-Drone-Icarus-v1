@@ -34,6 +34,6 @@ My first ever drone build, im always open to improvements.
 
 Scratched ideas
 
-<img width="889" height="776" alt="Screenshot 2026-08-21 182921" src="https://github.com/user-attachments/assets/9097da38-9dbb-4d2a-8e88-1e1dcc339cb3" />
+<img width="400" height="400" alt="Screenshot 2026-08-21 182921" src="https://github.com/user-attachments/assets/9097da38-9dbb-4d2a-8e88-1e1dcc339cb3" />
 
 
