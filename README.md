@@ -29,6 +29,7 @@ Inspired by "IBUILDSTUFF" on Youtube
 
 # Extras 
 My first ever drone build, im always open to improvements. 
+The CAD is NOT finished its just as much as i can do without the hardware.
 
 # Bonus
 
