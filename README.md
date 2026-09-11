@@ -39,4 +39,4 @@ Inspired by "IBUILDSTUFF" on Youtube
 ---
 
 # Extras 
-My first ever drone build, im always open to improvements
+My first ever drone build, im always open to improvements. 
