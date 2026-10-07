@@ -11,7 +11,7 @@ A compact, rocket deployable satellite drone designed for atmospheric sensing. F
   - BME280 sensor module for barometric altitude, ambient temperature, and humidity tracking
 - Video Link: RadioMaster RP1 ExpressLRS 2.4GHz receiver for the connection on my laptop
 - Thermal Management: 30x30x7mm 5V microfan
-- FPV System: BetaFPV Air VTX & BetaFPV Air Camera for live video feed
+- FPV: BetaFPV Air VTX & BetaFPV Air Camera for live video feed
 
 # Tools
 
